@@ -40,7 +40,7 @@ Steps Taken:
 
 ## Phase 3: The Log Analysis Bash Script
 
-This phase was the heart of the project, where I used my command-line skills to create a powerful data analysis tool. I created a Bash script named analyze_logs.sh that processes the raw log data and generates a clean, readable report.
+This phase was the heart of the project, where I used my command-line skills to create a powerful data analysis tool. I created a Bash script named ```analyze_logs_report.sh``` mentioned in this repo that processes the raw log data and generates a clean, readable report.
 
 The Script's Logic and Key Commands:
 
