@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document provides a detailed breakdown of my successful completion of Project 1, a hands-on exercise in system administration. The project's goal was to build a self-sustaining system for analyzing web server access logs. This involved setting up a virtual machine, configuring a web server, creating a custom Bash script for log analysis, and automating the entire process using cron.
+This document provides a detailed breakdown of a hands-on exercise in system administration. The project's goal was to build a self-sustaining system for analyzing web server access logs. This involved setting up a virtual machine, configuring a web server, creating a custom Bash script for log analysis, and automating the entire process using cron.
 
 The project reinforced my skills in Linux fundamentals, shell scripting, and process automation, while also providing an opportunity to troubleshoot a real-world system issue.
 
